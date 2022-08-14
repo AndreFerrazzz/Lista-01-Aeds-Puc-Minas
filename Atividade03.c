@@ -7,6 +7,10 @@
  * @matricula 770830
  * */
 
+/**Fazer um programa para:
+- definir e ler dois valores inteiros do teclado;
+- supor que esses dois valores representem lados de um retângulo,
+ calcular e mostrar um quarto da área do mesmo**/
 
 
 int main() 
