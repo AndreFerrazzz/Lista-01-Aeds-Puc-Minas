@@ -7,7 +7,10 @@
  * @matricula 770830
  * */
 
-
+/** Fazer um programa para:
+- definir e ler dois valores inteiros do teclado;
+- supor que esses dois valores representem lados de um retângulo,
+ calcular e mostrar a área e o perímetro de um retângulo com a metade do tamanho dos lados.**/
 
 int main() 
 {
