@@ -7,6 +7,10 @@
  * @matricula 770830
  * */
 
+/** Fazer um programa (Exemplo0112) para:
+- definir e ler um valor inteiro do teclado;
+- supor que esse valor represente o lado de um quadrado,
+ calcular e mostrar a área e o perímetro de um quadrado com o dobro do tamanho do lado.**/
 
 
 int main() 
