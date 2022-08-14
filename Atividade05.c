@@ -7,6 +7,10 @@
  * @matricula 770830
  * */
 
+/**Fazer um programa (Exemplo0115) para:
+- definir e ler dois valores reais do teclado;
+- supor que esses dois valores representem base e altura de um triângulo,
+ calcular e mostrar a área de um triângulo com um terço da altura do mesmo**/
 
 
 int main() 
