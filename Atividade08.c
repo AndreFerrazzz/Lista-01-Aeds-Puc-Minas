@@ -7,7 +7,12 @@
  * @matricula 770830
  * */
 
-
+/**
+Fazer um programa para:
+- definir e ler três valores reais do teclado;
+- supor que esses valores correspondam ao comprimento, à largura e à altura
+ de um paralelepípedo, respectivamente,
+- calcular e mostrar o volume do sólido com sete vezes esses valores.**/
 
 int main() 
 {
