@@ -7,7 +7,10 @@
  * @matricula 770830
  * */
 
-
+/**Fazer um programa para:
+- definir e ler um valor real do teclado;
+- supor que esse valor represente o raio de uma esfera,
+ calcular e mostrar o volume de uma esfera com cinco oitavos do raio.**/
 
 int main() 
 {
