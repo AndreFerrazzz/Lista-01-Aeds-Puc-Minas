@@ -9,7 +9,10 @@
  * @matricula 770830
  * */
 
-
+/** Fazer um programa para:
+- definir e ler um valor real do teclado;
+- supor que esse valor represente o raio de um círculo,
+ calcular e mostrar a área de um círculo com um quarto do raio.**/
 
 int main() 
 {
