@@ -7,7 +7,11 @@
  * @matricula 770830
  * */
 
-
+/**Fazer um programa para:
+- definir e ler um valor inteiro do teclado;
+- supor que esse valor represente o lado de um quadrado,
+ calcular e mostrar um sexto da área do mesmo.
+ DICA: Usar constantes reais em expressões que envolvam valores reais.**/
 
 int main()
 {
