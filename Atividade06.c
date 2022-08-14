@@ -8,6 +8,11 @@
  * @matricula 770830
  * */
 
+/**
+Fazer um programa para:
+- definir e ler um valor real do teclado;
+- supor que esse valor represente o lado de um triângulo equilátero,
+ calcular e mostrar a altura, área e o perímetro do triângulo com o dobro do lado.**/
 
 
 int main() 
